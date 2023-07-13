@@ -21,7 +21,7 @@ export default class Config {
     // 默认的app server使用端口是8888，注意端口号别忘记了。
     // 上线建议使用https，使用https更安全。
     //static APP_SERVER = 'http://app.wildfirechat.net:8888';
-    static APP_SERVER = 'https://app.wildfirechat.net';
+    static APP_SERVER = 'http://124.222.115.41:8888';
 
 
     static ORGANIZATION_SERVER = 'https://org.wildfirechat.cn';
